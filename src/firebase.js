@@ -3,13 +3,13 @@ import {getAuth} from 'firebase/auth'
 import { getFirestore } from "@firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDm_4uF_y4XOHQQ03JcWqe1BX_fKa0LgvQ",
-  authDomain: "vitclean-a2e43.firebaseapp.com",
-  projectId: "vitclean-a2e43",
-  storageBucket: "vitclean-a2e43.appspot.com",
-  messagingSenderId: "47103072766",
-  appId: "1:47103072766:web:3a0b90ba534bd3e2cc08af",
-  measurementId: "G-3N4RH87RHG"
+  apiKey: " ",
+  authDomain: " ",
+  projectId: " ",
+  storageBucket: " ",
+  messagingSenderId: " ",
+  appId: " ",
+  measurementId: " "
 };
 
 // Initialize Firebase and Firebase Authentication
